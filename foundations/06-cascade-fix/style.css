@@ -36,3 +36,9 @@ body{
   font-size: 14px;
 }
 
+.prueba {
+  display: inline-block;
+  border: 5px solid red;
+  width: 200px;
+  height: 200px;
+}
